@@ -8,11 +8,11 @@ I took the opportunity to attempt to write my own implementation of this algorit
 
 ![Result of the Diamond Square Algorithm](Slide4.png)
 
-Using `sample_output.csv` and `blender_script.py` a blender script I got ChatGPT to generate it was able to render out the Algorithm to look like this: ![Smooth Terrain using the diamond square algorithm](https://github.com/travisfriesen/diamondSquareAlgorithm/blob/10de5b5ff436c4711de8c149645f30a820a24e9b/DSG.png)
+Using [sample_output.csv](sample_output.csv) and [blender_script.py](blender_script.py) a blender script I got ChatGPT to generate it was able to render out the Algorithm to look like this: ![Smooth Terrain using the diamond square algorithm](https://github.com/travisfriesen/diamondSquareAlgorithm/blob/10de5b5ff436c4711de8c149645f30a820a24e9b/DSG.png)
 
 I learned so much from trying to work out how this algorithm was implemented, and hope to get to do more like this in the future!
 
-## Sources:
+## References:
 - [White Box Dev's Youtube video](https://www.youtube.com/watch?v=4GuAV1PnurU)
 - [Diamond Square Algorithm Wikipedia page](https://en.wikipedia.org/wiki/Diamond-square_algorithm)
 - [jmecom's blog](https://jmecom.github.io/blog/2015/diamond-square/)
